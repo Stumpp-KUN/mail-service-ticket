@@ -1,0 +1,6 @@
+.mvn/
+target/
+HELP.md
+mail-service.iml
+mvnw
+mvnw.cmd
